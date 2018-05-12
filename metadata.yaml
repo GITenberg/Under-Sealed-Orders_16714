@@ -1,0 +1,27 @@
+_repo: Under-Sealed-Orders_16714
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cody, H. A. (Hiram Alfred)
+    alias: Cody, Hiram Alfred
+    birthdate: 1872
+    deathdate: 1948
+    gutenberg_agent_id: '2694'
+    url: http://www.gutenberg.org/2009/agents/2694
+description: ''
+gutenberg_issued: '2005-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16714'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- Fiction'
+- !lcc 'PS'
+title: Under Sealed Orders
+url: http://www.gutenberg.org/ebooks/16714
